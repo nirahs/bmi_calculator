@@ -1,6 +1,6 @@
 # BMI Calculator App
 
-This is a bmi calculator app. This app created using flutter to learn flutter.
+This is a bmi calculator app. This app created using flutter.
 
 # UI
 <div>
